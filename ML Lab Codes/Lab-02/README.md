@@ -1,0 +1,23 @@
+# Lab 02: Decision Tree Algorithm
+
+## Overview
+This lab focuses on the implementation of the Decision Tree algorithm using machine learning techniques.
+
+## Topics Covered
+- Machine Learning Algorithms
+- Data Processing
+- Decision Tree Algorithm
+- Model Training
+- Model Evaluation
+- Model Implementation
+
+## Tools & Technologies
+- Python
+- Jupyter Notebook
+- Google Colab
+- Scikit-learn
+- Pandas
+- NumPy
+
+## Files
+- `Lab-02.ipynb` – Decision Tree implementation, model training, and evaluation.

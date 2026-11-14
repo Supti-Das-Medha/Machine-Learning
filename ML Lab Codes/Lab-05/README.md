@@ -15,11 +15,13 @@ This lab focuses on understanding Machine Learning Pipelines, Cross-Validation t
 ## Tools & Technologies
 - Python
 - Jupyter Notebook
-- Google Colab
 - Scikit-learn
 - Pandas
 - NumPy
 - SciPy
+## Lab Dates
+-  04/10/2026
+- 19/10/2026
 
 ## Files
 - `Lab-05.ipynb` – Implementation of Pipeline, Cross-Validation, and Statistical Testing.

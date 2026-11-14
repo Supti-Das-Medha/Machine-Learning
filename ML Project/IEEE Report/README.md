@@ -1,6 +1,6 @@
 # IEEE Report
 
-This folder contains the IEEE-format research paper/report for the Machine Learning project.
+This folder contains the IEEE-format project report for the Machine Learning project.
 
 Project Title:
 

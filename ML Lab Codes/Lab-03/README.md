@@ -17,10 +17,12 @@ This lab focuses on data preprocessing, data cleaning, model training, and evalu
 ## Tools & Technologies
 - Python
 - Jupyter Notebook
-- Google Colab
 - Pandas
 - NumPy
 - Scikit-learn
+## Lab Dates
+- 23/08/2026
+- 20/09/2026
 
 ## Files
 - `Lab-03.ipynb` – Data preprocessing, model training, and evaluation implementation.

@@ -11,7 +11,9 @@ This folder contains the source code and implementation of Machine Learning Lab 
 ## Tools & Technologies
 - Python
 - Jupyter Notebook
-- Google Colab
+## Lab Dates
+- 26/07/2026
+- 09/08/2026
 
 ## Files
 - `Lab-01.ipynb` – Lab implementation and source code.

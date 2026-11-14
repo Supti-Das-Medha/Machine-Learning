@@ -18,6 +18,9 @@ This lab focuses on the implementation of the Decision Tree algorithm using mach
 - Scikit-learn
 - Pandas
 - NumPy
+## Lab Dates
+- 29/08/2026
+- 23/08/2026
 
 ## Files
 - `Lab-02.ipynb` – Decision Tree implementation, model training, and evaluation.

@@ -35,5 +35,9 @@ The following metrics are used to evaluate the regression models:
 - Matplotlib
 - Scikit-learn
 
+## Lab Dates
+-  Date of Performance: 26/07/2026
+-  Date of Submission: 09/08/2026
+
 ## Learning Outcome
 Through this lab, I learned how to prepare data for machine learning, train regression models, and evaluate their performance using different metrics. It also helped me understand how evaluation results can be used to compare models and analyze their effectiveness.

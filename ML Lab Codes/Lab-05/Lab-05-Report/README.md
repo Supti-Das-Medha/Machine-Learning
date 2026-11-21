@@ -21,7 +21,7 @@ This lab focuses on understanding machine learning pipelines, cross-validation t
 
 ## Tools and Technologies
 - Python
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook
 - Pandas
 - NumPy
 - Scikit-learn

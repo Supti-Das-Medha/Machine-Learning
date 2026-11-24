@@ -23,4 +23,4 @@ This lab focuses on understanding and implementing K-Means and Agglomerative Clu
 - 04/10/2026
 
 ## Files
-- `Lab-04.ipynb` – Implementation and analysis of K-Means and Agglomerative Clustering algorithms.
+- `Lab04-kMeans.ipynb` – Implementation and analysis of K-Means and Agglomerative Clustering algorithms.

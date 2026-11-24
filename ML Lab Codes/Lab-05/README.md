@@ -24,4 +24,4 @@ This lab focuses on understanding Machine Learning Pipelines, Cross-Validation t
 - 19/10/2026
 
 ## Files
-- `Lab-05.ipynb` – Implementation of Pipeline, Cross-Validation, and Statistical Testing.
+- `Lab05-Introduction to Pipeline, Cross-Validation & Statistical Testing.ipynb` – Implementation of Pipeline, Cross-Validation, and Statistical Testing.
